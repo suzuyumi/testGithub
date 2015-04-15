@@ -1,2 +1,6 @@
 # testGithub
 Githubのテスト
+
+##メンバー
+
+*testsuzuyumi
